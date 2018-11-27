@@ -53,12 +53,5 @@ public class FooBarQix2Test {
 	public void shouldCeepTheOrderOfTheDigits() {
 		assertEquals(("BarFoo"),FooBarQix.function(53));
 	}
-	/*
-	
 
-	@Test
-	public void should_display_numbers_from_1_to_a_value() {
-		assertEquals(FooBarQix.asTextUpTo(2), ("1\n2"));
-	}
-}*/
 }
